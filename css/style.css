@@ -599,10 +599,10 @@ h6 {
 #copy:after {
   content: attr(tooltip);
   width: 8.75rem;
-  bottom: -3.125rem;
+  bottom: -3.0625rem;
   right: 1.25rem;
-  padding: 0.3125rem;
-  border-radius: rem;
+  padding: 0.25rem;
+  border-radius: 0.1875rem;
   font-size: 0.8rem;
 }
 
@@ -778,6 +778,6 @@ h6 {
   }
 
   #copy:after {
-    right: 0rem;
+    right: -0.125rem;
   }
 }
